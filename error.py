@@ -1,1 +1,1 @@
-print 'VAi gerar um erro'
+print('nao vai gerar um erro')
